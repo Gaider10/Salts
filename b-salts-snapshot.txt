@@ -2776,6 +2776,7 @@ BIOME minecraft:tall_birch_hills
 7 0 minecraft:freeze_top_layer
 BIOME minecraft:the_end
 3 0 minecraft:end_spike
+3 1 minecraft:end_city
 BIOME minecraft:the_void
 7 0 minecraft:void_start_platform
 BIOME minecraft:warm_ocean
