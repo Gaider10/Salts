@@ -1034,6 +1034,7 @@ BIOME minecraft:giant_spruce_taiga
 6 10 minecraft:random_patch
 6 11 minecraft:spring_feature
 6 12 minecraft:spring_feature
+6 13 minecraft:random_patch
 7 0 minecraft:freeze_top_layer
 BIOME minecraft:giant_spruce_taiga_hills
 1 0 minecraft:lake
@@ -1080,6 +1081,7 @@ BIOME minecraft:giant_spruce_taiga_hills
 6 10 minecraft:random_patch
 6 11 minecraft:spring_feature
 6 12 minecraft:spring_feature
+6 13 minecraft:random_patch
 7 0 minecraft:freeze_top_layer
 BIOME minecraft:giant_tree_taiga
 1 0 minecraft:lake
@@ -1126,6 +1128,7 @@ BIOME minecraft:giant_tree_taiga
 6 10 minecraft:random_patch
 6 11 minecraft:spring_feature
 6 12 minecraft:spring_feature
+6 13 minecraft:random_patch
 7 0 minecraft:freeze_top_layer
 BIOME minecraft:giant_tree_taiga_hills
 1 0 minecraft:lake
@@ -1172,6 +1175,7 @@ BIOME minecraft:giant_tree_taiga_hills
 6 10 minecraft:random_patch
 6 11 minecraft:spring_feature
 6 12 minecraft:spring_feature
+6 13 minecraft:random_patch
 7 0 minecraft:freeze_top_layer
 BIOME minecraft:gravelly_mountains
 1 0 minecraft:lake
