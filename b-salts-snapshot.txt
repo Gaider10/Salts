@@ -353,7 +353,7 @@ BIOME minecraft:crimson_forest
 6 1 minecraft:random_patch
 6 2 minecraft:random_patch
 6 3 minecraft:weeping_vines
-6 4 minecraft:huge_fungi
+6 4 minecraft:huge_fungus
 6 5 minecraft:nether_forest_vegetation
 BIOME minecraft:dark_forest
 1 0 minecraft:lake
@@ -2878,7 +2878,7 @@ BIOME minecraft:warped_forest
 6 0 minecraft:spring_feature
 6 1 minecraft:random_patch
 6 2 minecraft:random_patch
-6 3 minecraft:huge_fungi
+6 3 minecraft:huge_fungus
 6 4 minecraft:nether_forest_vegetation
 6 5 minecraft:nether_forest_vegetation
 BIOME minecraft:wooded_badlands_plateau
