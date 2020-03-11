@@ -347,8 +347,9 @@ BIOME minecraft:crimson_forest
 5 5 minecraft:ore
 5 6 minecraft:spring_feature
 5 7 minecraft:ore
-5 8 minecraft:no_surface_ore
+5 8 minecraft:ore
 5 9 minecraft:no_surface_ore
+5 10 minecraft:no_surface_ore
 6 0 minecraft:spring_feature
 6 1 minecraft:random_patch
 6 2 minecraft:random_patch
@@ -1848,8 +1849,9 @@ BIOME minecraft:nether_wastes
 5 8 minecraft:ore
 5 9 minecraft:spring_feature
 5 10 minecraft:ore
-5 11 minecraft:no_surface_ore
+5 11 minecraft:ore
 5 12 minecraft:no_surface_ore
+5 13 minecraft:no_surface_ore
 6 0 minecraft:spring_feature
 6 1 minecraft:random_patch
 6 2 minecraft:random_patch
@@ -2420,8 +2422,9 @@ BIOME minecraft:soul_sand_valley
 5 9 minecraft:ore
 5 10 minecraft:spring_feature
 5 11 minecraft:ore
-5 12 minecraft:no_surface_ore
+5 12 minecraft:ore
 5 13 minecraft:no_surface_ore
+5 14 minecraft:no_surface_ore
 6 0 minecraft:spring_feature
 BIOME minecraft:stone_shore
 1 0 minecraft:lake
@@ -2873,14 +2876,16 @@ BIOME minecraft:warped_forest
 5 6 minecraft:ore
 5 7 minecraft:spring_feature
 5 8 minecraft:ore
-5 9 minecraft:no_surface_ore
+5 9 minecraft:ore
 5 10 minecraft:no_surface_ore
+5 11 minecraft:no_surface_ore
 6 0 minecraft:spring_feature
 6 1 minecraft:random_patch
 6 2 minecraft:random_patch
 6 3 minecraft:huge_fungus
 6 4 minecraft:nether_forest_vegetation
 6 5 minecraft:nether_forest_vegetation
+6 6 minecraft:twisting_vines
 BIOME minecraft:wooded_badlands_plateau
 1 0 minecraft:lake
 1 1 minecraft:lake
