@@ -170,6 +170,24 @@ BIOME minecraft:bamboo_jungle_hills
 6 10 minecraft:random_patch
 6 11 minecraft:vines
 7 0 minecraft:freeze_top_layer
+BIOME minecraft:basalt_deltas
+1 0 minecraft:delta_feature
+5 0 minecraft:basalt_columns
+5 1 minecraft:basalt_columns
+5 2 minecraft:netherrack_replace_blobs
+5 3 minecraft:netherrack_replace_blobs
+5 4 minecraft:nether_bridge
+5 5 minecraft:spring_feature
+5 6 minecraft:random_patch
+5 7 minecraft:random_patch
+5 8 minecraft:glowstone_blob
+5 9 minecraft:glowstone_blob
+5 10 minecraft:random_patch
+5 11 minecraft:random_patch
+5 12 minecraft:ore
+5 13 minecraft:ore
+5 14 minecraft:spring_feature
+6 0 minecraft:spring_feature
 BIOME minecraft:beach
 1 0 minecraft:lake
 1 1 minecraft:lake
