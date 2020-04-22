@@ -179,7 +179,6 @@ BIOME minecraft:bamboo_jungle_hills
 6 11 minecraft:vines
 7 0 minecraft:freeze_top_layer
 BIOME minecraft:basalt_deltas
-1 0 minecraft:delta_feature
 2 0 minecraft:mineshaft
 2 1 minecraft:stronghold
 2 2 minecraft:buried_treasure
@@ -195,22 +194,23 @@ BIOME minecraft:basalt_deltas
 3 9 minecraft:ocean_ruin
 3 10 minecraft:village
 3 11 minecraft:bastion_remnant
-5 0 minecraft:basalt_columns
-5 1 minecraft:basalt_columns
+3 12 minecraft:delta_feature
+3 13 minecraft:basalt_columns
+3 14 minecraft:basalt_columns
+5 0 minecraft:ruined_portal
+5 1 minecraft:nether_bridge
 5 2 minecraft:netherrack_replace_blobs
 5 3 minecraft:netherrack_replace_blobs
-5 4 minecraft:nether_bridge
-5 5 minecraft:ruined_portal
-5 6 minecraft:spring_feature
-5 7 minecraft:random_patch
-5 8 minecraft:random_patch
-5 9 minecraft:glowstone_blob
-5 10 minecraft:glowstone_blob
-5 11 minecraft:random_patch
-5 12 minecraft:random_patch
-5 13 minecraft:ore
-5 14 minecraft:ore
-5 15 minecraft:spring_feature
+5 4 minecraft:spring_feature
+5 5 minecraft:random_patch
+5 6 minecraft:random_patch
+5 7 minecraft:glowstone_blob
+5 8 minecraft:glowstone_blob
+5 9 minecraft:random_patch
+5 10 minecraft:random_patch
+5 11 minecraft:ore
+5 12 minecraft:ore
+5 13 minecraft:spring_feature
 6 0 minecraft:spring_feature
 BIOME minecraft:beach
 1 0 minecraft:lake
@@ -288,7 +288,7 @@ BIOME minecraft:birch_forest
 4 12 minecraft:disk
 4 13 minecraft:disk
 6 0 minecraft:random_random_selector
-6 1 minecraft:normal_tree
+6 1 minecraft:tree
 6 2 minecraft:flower
 6 3 minecraft:random_patch
 6 4 minecraft:random_patch
@@ -332,7 +332,7 @@ BIOME minecraft:birch_forest_hills
 4 12 minecraft:disk
 4 13 minecraft:disk
 6 0 minecraft:random_random_selector
-6 1 minecraft:normal_tree
+6 1 minecraft:tree
 6 2 minecraft:flower
 6 3 minecraft:random_patch
 6 4 minecraft:random_patch
@@ -1379,7 +1379,7 @@ BIOME minecraft:ice_spikes
 4 11 minecraft:disk
 4 12 minecraft:disk
 4 13 minecraft:disk
-6 0 minecraft:normal_tree
+6 0 minecraft:tree
 6 1 minecraft:flower
 6 2 minecraft:random_patch
 6 3 minecraft:random_patch
@@ -1784,7 +1784,7 @@ BIOME minecraft:modified_wooded_badlands_plateau
 4 12 minecraft:disk
 4 13 minecraft:disk
 4 14 minecraft:disk
-6 0 minecraft:normal_tree
+6 0 minecraft:tree
 6 1 minecraft:random_patch
 6 2 minecraft:random_patch
 6 3 minecraft:random_patch
@@ -2391,7 +2391,7 @@ BIOME minecraft:snowy_mountains
 4 11 minecraft:disk
 4 12 minecraft:disk
 4 13 minecraft:disk
-6 0 minecraft:normal_tree
+6 0 minecraft:tree
 6 1 minecraft:flower
 6 2 minecraft:random_patch
 6 3 minecraft:random_patch
@@ -2575,7 +2575,7 @@ BIOME minecraft:snowy_tundra
 4 11 minecraft:disk
 4 12 minecraft:disk
 4 13 minecraft:disk
-6 0 minecraft:normal_tree
+6 0 minecraft:tree
 6 1 minecraft:flower
 6 2 minecraft:random_patch
 6 3 minecraft:random_patch
@@ -2737,7 +2737,7 @@ BIOME minecraft:swamp
 4 10 minecraft:ore
 4 11 minecraft:disk
 5 0 minecraft:fossil
-6 0 minecraft:normal_tree
+6 0 minecraft:tree
 6 1 minecraft:flower
 6 2 minecraft:random_patch
 6 3 minecraft:random_patch
@@ -2784,7 +2784,7 @@ BIOME minecraft:swamp_hills
 4 10 minecraft:ore
 4 11 minecraft:disk
 5 0 minecraft:fossil
-6 0 minecraft:normal_tree
+6 0 minecraft:tree
 6 1 minecraft:flower
 6 2 minecraft:random_patch
 6 3 minecraft:random_patch
@@ -3148,7 +3148,7 @@ BIOME minecraft:wooded_badlands_plateau
 4 12 minecraft:disk
 4 13 minecraft:disk
 4 14 minecraft:disk
-6 0 minecraft:normal_tree
+6 0 minecraft:tree
 6 1 minecraft:random_patch
 6 2 minecraft:random_patch
 6 3 minecraft:random_patch
