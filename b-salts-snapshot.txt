@@ -204,7 +204,7 @@ BIOME minecraft:birch_forest
 6 12 minecraft:disk_clay
 6 13 minecraft:disk_gravel
 8 0 minecraft:forest_flower_vegetation
-8 1 minecraft:birch_bees_0002
+8 1 minecraft:trees_birch
 8 2 minecraft:flower_default
 8 3 minecraft:patch_grass_forest
 8 4 minecraft:brown_mushroom_normal
@@ -233,7 +233,7 @@ BIOME minecraft:birch_forest_hills
 6 12 minecraft:disk_clay
 6 13 minecraft:disk_gravel
 8 0 minecraft:forest_flower_vegetation
-8 1 minecraft:birch_bees_0002
+8 1 minecraft:trees_birch
 8 2 minecraft:flower_default
 8 3 minecraft:patch_grass_forest
 8 4 minecraft:brown_mushroom_normal
@@ -930,7 +930,7 @@ BIOME minecraft:ice_spikes
 6 11 minecraft:disk_sand
 6 12 minecraft:disk_clay
 6 13 minecraft:disk_gravel
-8 0 minecraft:spruce_snovy
+8 0 minecraft:spruce_snowy
 8 1 minecraft:flower_default
 8 2 minecraft:patch_grass_badlands
 8 3 minecraft:brown_mushroom_normal
@@ -1596,7 +1596,7 @@ BIOME minecraft:snowy_mountains
 6 11 minecraft:disk_sand
 6 12 minecraft:disk_clay
 6 13 minecraft:disk_gravel
-8 0 minecraft:spruce_snovy
+8 0 minecraft:spruce_snowy
 8 1 minecraft:flower_default
 8 2 minecraft:patch_grass_badlands
 8 3 minecraft:brown_mushroom_normal
@@ -1720,7 +1720,7 @@ BIOME minecraft:snowy_tundra
 6 11 minecraft:disk_sand
 6 12 minecraft:disk_clay
 6 13 minecraft:disk_gravel
-8 0 minecraft:spruce_snovy
+8 0 minecraft:spruce_snowy
 8 1 minecraft:flower_default
 8 2 minecraft:patch_grass_badlands
 8 3 minecraft:brown_mushroom_normal
