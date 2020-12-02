@@ -629,6 +629,40 @@ BIOME minecraft:desert_lakes
 8 8 minecraft:spring_water
 8 9 minecraft:spring_lava
 9 0 minecraft:freeze_top_layer
+BIOME minecraft:dripstone_caves
+1 0 minecraft:lake_water
+1 1 minecraft:lake_lava
+2 0 minecraft:large_dripstone
+3 2 minecraft:amethyst_geode
+3 3 minecraft:monster_room
+6 0 minecraft:ore_dirt
+6 1 minecraft:ore_gravel
+6 2 minecraft:ore_granite
+6 3 minecraft:ore_diorite
+6 4 minecraft:ore_andesite
+6 5 minecraft:ore_coal
+6 6 minecraft:ore_iron
+6 7 minecraft:ore_gold
+6 8 minecraft:ore_redstone
+6 9 minecraft:ore_diamond
+6 10 minecraft:ore_lapis
+6 11 minecraft:ore_copper
+6 12 minecraft:disk_sand
+6 13 minecraft:disk_clay
+6 14 minecraft:disk_gravel
+7 2 minecraft:dripstone_cluster
+7 3 minecraft:small_dripstone
+8 0 minecraft:patch_tall_grass_2
+8 1 minecraft:plain_vegetation
+8 2 minecraft:flower_plain_decorated
+8 3 minecraft:patch_grass_plain
+8 4 minecraft:brown_mushroom_normal
+8 5 minecraft:red_mushroom_normal
+8 6 minecraft:patch_sugar_cane
+8 7 minecraft:patch_pumpkin
+8 8 minecraft:spring_water
+8 9 minecraft:spring_lava
+9 0 minecraft:freeze_top_layer
 BIOME minecraft:end_barrens
 BIOME minecraft:end_highlands
 4 13 minecraft:end_gateway
