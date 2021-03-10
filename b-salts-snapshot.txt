@@ -657,9 +657,10 @@ BIOME minecraft:deep_warm_ocean
 9 0 minecraft:freeze_top_layer
 BIOME minecraft:desert
 1 0 minecraft:lake_lava
-3 2 minecraft:fossil
-3 3 minecraft:amethyst_geode
-3 4 minecraft:monster_room
+3 2 minecraft:fossil_upper
+3 3 minecraft:fossil_lower
+3 4 minecraft:amethyst_geode
+3 5 minecraft:monster_room
 4 13 minecraft:desert_well
 6 0 minecraft:ore_dirt
 6 1 minecraft:ore_gravel
@@ -1262,7 +1263,7 @@ BIOME minecraft:ice_spikes
 6 20 minecraft:disk_clay
 6 21 minecraft:disk_gravel
 8 0 minecraft:glow_lichen
-8 1 minecraft:spruce_snowy
+8 1 minecraft:trees_snowy
 8 2 minecraft:flower_default
 8 3 minecraft:patch_grass_badlands
 8 4 minecraft:brown_mushroom_normal
@@ -1434,6 +1435,43 @@ BIOME minecraft:lukewarm_ocean
 8 10 minecraft:seagrass_warm
 8 11 minecraft:kelp_warm
 9 0 minecraft:freeze_top_layer
+BIOME minecraft:lush_caves
+1 0 minecraft:lake_water
+1 1 minecraft:lake_lava
+3 2 minecraft:amethyst_geode
+3 3 minecraft:monster_room
+6 0 minecraft:ore_dirt
+6 1 minecraft:ore_gravel
+6 2 minecraft:ore_granite
+6 3 minecraft:ore_diorite
+6 4 minecraft:ore_andesite
+6 5 minecraft:ore_tuff
+6 6 minecraft:ore_coal_upper
+6 7 minecraft:ore_coal_lower
+6 8 minecraft:ore_iron_upper
+6 9 minecraft:ore_iron_middle
+6 10 minecraft:ore_iron_lower
+6 11 minecraft:ore_gold
+6 12 minecraft:ore_redstone
+6 13 minecraft:ore_redstone_lower
+6 14 minecraft:ore_diamond
+6 15 minecraft:ore_lapis
+6 16 minecraft:ore_lapis_buried
+6 17 minecraft:ore_copper
+6 18 minecraft:underwater_magma
+6 19 minecraft:ore_clay
+6 20 minecraft:disk_sand
+6 21 minecraft:disk_clay
+6 22 minecraft:disk_gravel
+8 0 minecraft:patch_tall_grass_2
+8 1 minecraft:glow_lichen
+8 2 minecraft:lush_caves_ceiling_vegetation
+8 3 minecraft:cave_vines
+8 4 minecraft:lush_caves_clay
+8 5 minecraft:lush_caves_vegetation
+8 6 minecraft:rooted_azalea_trees
+8 7 minecraft:spore_blossom
+8 8 minecraft:classic_vines_cave_feature
 BIOME minecraft:modified_badlands_plateau
 1 0 minecraft:lake_water
 1 1 minecraft:lake_lava
@@ -1622,7 +1660,7 @@ BIOME minecraft:modified_wooded_badlands_plateau
 6 21 minecraft:disk_clay
 6 22 minecraft:disk_gravel
 8 0 minecraft:glow_lichen
-8 1 minecraft:oak_badlands
+8 1 minecraft:trees_badlands
 8 2 minecraft:patch_grass_badlands
 8 3 minecraft:patch_dead_bush_badlands
 8 4 minecraft:brown_mushroom_normal
@@ -2148,7 +2186,7 @@ BIOME minecraft:snowy_mountains
 6 20 minecraft:disk_clay
 6 21 minecraft:disk_gravel
 8 0 minecraft:glow_lichen
-8 1 minecraft:spruce_snowy
+8 1 minecraft:trees_snowy
 8 2 minecraft:flower_default
 8 3 minecraft:patch_grass_badlands
 8 4 minecraft:brown_mushroom_normal
@@ -2312,7 +2350,7 @@ BIOME minecraft:snowy_tundra
 6 20 minecraft:disk_clay
 6 21 minecraft:disk_gravel
 8 0 minecraft:glow_lichen
-8 1 minecraft:spruce_snowy
+8 1 minecraft:trees_snowy
 8 2 minecraft:flower_default
 8 3 minecraft:patch_grass_badlands
 8 4 minecraft:brown_mushroom_normal
@@ -2420,9 +2458,10 @@ BIOME minecraft:sunflower_plains
 BIOME minecraft:swamp
 1 0 minecraft:lake_water
 1 1 minecraft:lake_lava
-3 2 minecraft:fossil
-3 3 minecraft:amethyst_geode
-3 4 minecraft:monster_room
+3 2 minecraft:fossil_upper
+3 3 minecraft:fossil_lower
+3 4 minecraft:amethyst_geode
+3 5 minecraft:monster_room
 6 0 minecraft:ore_dirt
 6 1 minecraft:ore_gravel
 6 2 minecraft:ore_granite
@@ -2444,7 +2483,7 @@ BIOME minecraft:swamp
 6 18 minecraft:underwater_magma
 6 19 minecraft:disk_clay
 8 0 minecraft:glow_lichen
-8 1 minecraft:swamp_tree
+8 1 minecraft:trees_swamp
 8 2 minecraft:flower_swamp
 8 3 minecraft:patch_grass_normal
 8 4 minecraft:patch_dead_bush
@@ -2464,7 +2503,8 @@ BIOME minecraft:swamp_hills
 1 1 minecraft:lake_lava
 3 2 minecraft:amethyst_geode
 3 3 minecraft:monster_room
-3 4 minecraft:fossil
+3 4 minecraft:fossil_upper
+3 5 minecraft:fossil_lower
 6 0 minecraft:ore_dirt
 6 1 minecraft:ore_gravel
 6 2 minecraft:ore_granite
@@ -2486,7 +2526,7 @@ BIOME minecraft:swamp_hills
 6 18 minecraft:underwater_magma
 6 19 minecraft:disk_clay
 8 0 minecraft:glow_lichen
-8 1 minecraft:swamp_tree
+8 1 minecraft:trees_swamp
 8 2 minecraft:flower_swamp
 8 3 minecraft:patch_grass_normal
 8 4 minecraft:patch_dead_bush
@@ -2799,7 +2839,7 @@ BIOME minecraft:wooded_badlands_plateau
 6 21 minecraft:disk_clay
 6 22 minecraft:disk_gravel
 8 0 minecraft:glow_lichen
-8 1 minecraft:oak_badlands
+8 1 minecraft:trees_badlands
 8 2 minecraft:patch_grass_badlands
 8 3 minecraft:patch_dead_bush_badlands
 8 4 minecraft:brown_mushroom_normal
