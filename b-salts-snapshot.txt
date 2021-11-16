@@ -102,7 +102,7 @@ FEATURES minecraft:overworld
 9 28 minecraft:classic_vines_cave_feature
 9 29 minecraft:patch_sunflower
 9 30 minecraft:trees_plains
-9 31 minecraft:flower_plain
+9 31 minecraft:flower_plains
 9 32 minecraft:patch_grass_plain
 9 33 minecraft:flower_meadow
 9 34 minecraft:trees_meadow
