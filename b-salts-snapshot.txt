@@ -109,8 +109,8 @@ BIOME minecraft:bamboo_jungle
 9 6 minecraft:red_mushroom_normal
 9 7 minecraft:patch_sugar_cane
 9 8 minecraft:patch_pumpkin
-9 9 minecraft:patch_melon
-9 10 minecraft:vines
+9 9 minecraft:vines
+9 10 minecraft:patch_melon
 10 0 minecraft:freeze_top_layer
 BIOME minecraft:beach
 1 0 minecraft:lake_lava_underground
@@ -1035,8 +1035,8 @@ BIOME minecraft:jungle
 9 6 minecraft:red_mushroom_normal
 9 7 minecraft:patch_sugar_cane
 9 8 minecraft:patch_pumpkin
-9 9 minecraft:patch_melon
-9 10 minecraft:vines
+9 9 minecraft:vines
+9 10 minecraft:patch_melon
 10 0 minecraft:freeze_top_layer
 BIOME minecraft:lukewarm_ocean
 1 0 minecraft:lake_lava_underground
@@ -1822,8 +1822,8 @@ BIOME minecraft:sparse_jungle
 9 5 minecraft:red_mushroom_normal
 9 6 minecraft:patch_sugar_cane
 9 7 minecraft:patch_pumpkin
-9 8 minecraft:patch_melon
-9 9 minecraft:vines
+9 8 minecraft:vines
+9 9 minecraft:patch_melon_sparse
 10 0 minecraft:freeze_top_layer
 BIOME minecraft:stony_peaks
 1 0 minecraft:lake_lava_underground
