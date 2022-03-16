@@ -78,9 +78,11 @@ FEATURES minecraft:overworld
 6 29 minecraft:disk_clay
 6 30 minecraft:disk_gravel
 6 31 minecraft:ore_emerald
-7 0 minecraft:dripstone_cluster
-7 1 minecraft:pointed_dripstone
-7 2 minecraft:ore_infested
+7 0 minecraft:sculk_vein
+7 1 minecraft:sculk_patch
+7 2 minecraft:dripstone_cluster
+7 3 minecraft:pointed_dripstone
+7 4 minecraft:ore_infested
 8 0 minecraft:spring_water
 8 1 minecraft:spring_lava
 8 2 minecraft:spring_lava_frozen
