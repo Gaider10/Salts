@@ -3,6 +3,7 @@ STRUCTURES
 3 1 minecraft:mineshaft
 3 2 minecraft:mineshaft_mesa
 3 3 minecraft:trail_ruins
+3 4 minecraft:trial_chambers
 4 0 minecraft:bastion_remnant
 4 1 minecraft:desert_pyramid
 4 2 minecraft:end_city
