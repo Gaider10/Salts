@@ -190,6 +190,7 @@ FEATURES minecraft:the_end
 4 0 minecraft:end_gateway_return
 4 1 minecraft:end_spike
 9 0 minecraft:chorus_plant
+10 0 minecraft:end_platform
 FEATURES minecraft:the_nether
 2 0 minecraft:basalt_pillar
 4 0 minecraft:delta
