@@ -177,13 +177,12 @@ FEATURES minecraft:overworld
 9 83 minecraft:seagrass_warm
 9 84 minecraft:sea_pickle
 9 85 minecraft:seagrass_deep_warm
-9 86 minecraft:seagrass_normal
-9 87 minecraft:seagrass_deep
-9 88 minecraft:seagrass_cold
-9 89 minecraft:seagrass_deep_cold
-9 90 minecraft:seagrass_simple
-9 91 minecraft:kelp_warm
-9 92 minecraft:kelp_cold
+9 86 minecraft:kelp_warm
+9 87 minecraft:seagrass_normal
+9 88 minecraft:seagrass_deep
+9 89 minecraft:seagrass_cold
+9 90 minecraft:seagrass_deep_cold
+9 91 minecraft:kelp_cold
 10 0 minecraft:freeze_top_layer
 FEATURES minecraft:the_end
 0 0 minecraft:end_island_decorated
